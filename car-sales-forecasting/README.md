@@ -1,15 +1,15 @@
-## Descrição
+## 📄 Descrição
 
 Este projeto tem como objetivo prever a quantidade de vendas de carros para os próximos 20 dias, com base em um dataset público baixado do kaggle.com com base em análise de séries temporais. Utilizando o histórico de vendas, foram aplicadas técnicas de limpeza nos dados, seguidas por técnicas de modelagem estatística para realizar as previsões.
 
-## Estrutura do Projeto
+## 🗂 Estrutura do Projeto
 
 * `car-sales-forecasting.ipynb` → Se trata do notebook Python com todo o processo de análise e modelagem.
 * `datasets/` → Pasta contendo o dataset sobre o qual foram feitas as análises e outros datasets que temos como saída no projeto.
 * `requirements.txt` → Dependências para conseguir executar o projeto no notebook Python.
 * `README.md` → Arquivo com as informações gerais sobre o projeto.
 
-## Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 * Python
 * Numpy
@@ -18,14 +18,14 @@ Este projeto tem como objetivo prever a quantidade de vendas de carros para os p
 * Statsmodels
 * Pmdarima
 
-## Modelos e Testes Estatísticos Utilizados
+## 📈 Modelos e Testes Estatísticos Utilizados
 
 * Teste de Dickey-Fuller Aumentado
 * Teste de KPSS (Kwiatkowski-Phillips-Schmidt-Shin)
 * Modelo SARIMA
 * Teste de Ljung-Box
 
-## Como Executar o Projeto
+## ▶ Como Executar o Projeto
 
 1. **Clone este repositório** digitando no prompt de comando:
 
@@ -42,7 +42,7 @@ Este projeto tem como objetivo prever a quantidade de vendas de carros para os p
 
     jupyter notebook
 
-## Fonte dos Dados
+## 📊 Fonte dos Dados
 
 Os dados utilizados neste projeto foram obtidos no Kaggle:
 
