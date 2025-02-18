@@ -38,6 +38,6 @@ Cada projeto possui um README específico com instruções detalhadas sobre como
 
 Caso tenha interesse em discutir sobre os projetos ou oportunidades, fique à vontade para me contatar:
 
-📧 Email: hrodrich30@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-barbosa-548275179/
-🐙 GitHub: https://github.com/rodrigobarbosa333
+* 📧 Email: hrodrich30@gmail.com  
+* 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-barbosa-548275179/
+* 🐙 GitHub: https://github.com/rodrigobarbosa333
