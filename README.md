@@ -18,9 +18,10 @@ Este repositório contém projetos organizados em diferentes categorias:
 1. Previsão de Vendas de Carros
 
 	**Descrição:** Desenvolvimento de um modelo preditivo para estimar a quantidade de carros vendidos.
+   
 	**Tecnologias:** Python, Pandas, Statsmodels, ARIMA.
    
-	🔗[Repositório do Projeto](https://github.com/rodrigobarbosa333/my-projects)
+   	🔗[Repositório do Projeto](https://github.com/rodrigobarbosa333/my-projects)
 
 ### ▶ Como Executar os Projetos
 
