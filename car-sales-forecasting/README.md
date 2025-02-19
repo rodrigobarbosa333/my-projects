@@ -29,7 +29,7 @@ Este projeto tem como objetivo prever a quantidade de vendas de carros para os p
 
 1. **Clone este repositório** digitando no prompt de comando:
 
-    git clone https://github.com/rodrigobarbosa333/my-projects.git
+    ```git clone https://github.com/rodrigobarbosa333/my-projects.git```
 
 2. **Navegue até o diretório onde está o notebook** digitando o seguinte comando:
 	- **No Windows (Prompt de Comando ou PowerShell):** 
@@ -40,7 +40,7 @@ Este projeto tem como objetivo prever a quantidade de vendas de carros para os p
 
 3. **Abra o Jupyter Notebook** executando o seguinte código, após o passo anterior:
 
-    jupyter notebook
+    ```jupyter notebook```
 
 ## 📊 Fonte dos Dados
 
